@@ -1,0 +1,10 @@
+google-cloud
+google-cloud-vision
+pyzmq
+google-generativeai
+torch
+torchvision
+torchaudio
+transformers
+python-dotenv
+streamlit
